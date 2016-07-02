@@ -1,0 +1,26 @@
+{
+  "name": "experiment-yo-yo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "create-element.js",
+  "scripts": {
+    "start": "budo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sethvincent/experiment-yo-yo.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sethvincent/experiment-yo-yo/issues"
+  },
+  "homepage": "https://github.com/sethvincent/experiment-yo-yo#readme",
+  "devDependencies": {
+    "budo": "^8.3.0"
+  },
+  "dependencies": {
+    "chart.js": "^2.1.6",
+    "yo-yo": "^1.2.2"
+  }
+}
